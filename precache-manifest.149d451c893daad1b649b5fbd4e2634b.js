@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bdf9cf3bd9bc68eea98865653c685c0",
+    "revision": "9ae4777d9b9dc09f423b703260d4322d",
     "url": "/elrincondelvago/index.html"
   },
   {
-    "revision": "d485228772383588c0bf",
+    "revision": "775072a3d6274188c9dd",
     "url": "/elrincondelvago/static/css/main.6ea04d8d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elrincondelvago/static/js/2.aa5044b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d485228772383588c0bf",
-    "url": "/elrincondelvago/static/js/main.df7ef375.chunk.js"
+    "revision": "775072a3d6274188c9dd",
+    "url": "/elrincondelvago/static/js/main.afd6250d.chunk.js"
   },
   {
     "revision": "513ef830690d8b6cd20d",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elrincondelvago/static/css/main.6ea04d8d.chunk.css",
-    "main.js": "/elrincondelvago/static/js/main.df7ef375.chunk.js",
-    "main.js.map": "/elrincondelvago/static/js/main.df7ef375.chunk.js.map",
+    "main.js": "/elrincondelvago/static/js/main.afd6250d.chunk.js",
+    "main.js.map": "/elrincondelvago/static/js/main.afd6250d.chunk.js.map",
     "runtime-main.js": "/elrincondelvago/static/js/runtime-main.9d37f07f.js",
     "runtime-main.js.map": "/elrincondelvago/static/js/runtime-main.9d37f07f.js.map",
     "static/js/2.aa5044b5.chunk.js": "/elrincondelvago/static/js/2.aa5044b5.chunk.js",
     "static/js/2.aa5044b5.chunk.js.map": "/elrincondelvago/static/js/2.aa5044b5.chunk.js.map",
     "index.html": "/elrincondelvago/index.html",
-    "precache-manifest.dc0b63403b8d73163cf3ebaff9ebcb34.js": "/elrincondelvago/precache-manifest.dc0b63403b8d73163cf3ebaff9ebcb34.js",
+    "precache-manifest.149d451c893daad1b649b5fbd4e2634b.js": "/elrincondelvago/precache-manifest.149d451c893daad1b649b5fbd4e2634b.js",
     "service-worker.js": "/elrincondelvago/service-worker.js",
     "static/css/main.6ea04d8d.chunk.css.map": "/elrincondelvago/static/css/main.6ea04d8d.chunk.css.map",
     "static/js/2.aa5044b5.chunk.js.LICENSE.txt": "/elrincondelvago/static/js/2.aa5044b5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9d37f07f.js",
     "static/js/2.aa5044b5.chunk.js",
     "static/css/main.6ea04d8d.chunk.css",
-    "static/js/main.df7ef375.chunk.js"
+    "static/js/main.afd6250d.chunk.js"
   ]
 }
